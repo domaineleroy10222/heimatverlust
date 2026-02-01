@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '2bbefc58fed881bfbc83f5513809f965',
+  rootNotionPageId: '68d573f274aa4200ad2061a49ddfac1a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Heimatverlust',
-  domain: 'https://leeresehnsucht.vercel.app/',
-  author: 'Si',
+  name: 'Site',
+  domain: 'https://leergeschwaetz0.vercel.app/',
+  author: 'Me',
 
   // open graph metadata (optional)
   description: '#',
